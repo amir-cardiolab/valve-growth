@@ -11,7 +11,9 @@ This code is used in the following publication:
 
 2- FEniCS installation:
 To run the solver, users need to install FEniCS, an open-source finite element software, written in Python: the best reference to install FEniCS is: 
-https://fenicsproject.org/download/
+
+	https://fenicsproject.org/download/
+	
 This solver is compatible with FEniCS 2017, 2018 and 2019. However, it is recommended to install this version of FEniCS. 
 
 $ conda create -n fenicsproject -c conda-forge fenics=2019.2
@@ -28,9 +30,9 @@ a.	The solver can be installed simply by cloning the GitHub repository to your o
 b.	You can just download the package from the link below:
 
 
-$ https://github.com/amir-cardiolab/valve-growth.git
-$ unzip code.zip
-$ cd code
+	$ https://github.com/amir-cardiolab/valve-growth.git
+	$ unzip code.zip
+	$ cd code
 
 4- Files and folders:
 	The solver has a folder named code, which includes six python codes and the geometry of our problem.
