@@ -34,7 +34,7 @@ b.	You can just download the package from the link below:
 	$ cd code
 
 4- Files and folders:
-	The solver has a folder named code, which includes six python codes and the geometry of our problem.
+	The solver has a folder named code, which includes six python codes: 
 All of the codes are implemented in Python and the main executable code name is main_loop.py. 
 To run the solver, you need to preset the assumptions:
 
@@ -45,6 +45,10 @@ d.	continuum.py   includes the G&R equations and Cauchy’s equation of motion. 
 e.	main_loop.py  is the executable code, which is included the main loop where you can couple the transient structural dynamics with G&R. 
 To run the solver you need to run the main_loop.py:
 $ python main_loop.py
+
+ To download the geometry  you can use the google drive link: https://drive.google.com/file/d/1QVIGgRxDCMKsZHVPIoSGhBz3DxKBMSlv/view?usp=sharing
+ the geometry should be in the same folder as the codes are.
+ 
 If you want to run in parallel (recommended), you need to run the code as:
 
 	$ time mpi -n n_processors python main_loop.py
