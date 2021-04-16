@@ -37,7 +37,7 @@ b.	You can just download the package from the link below:
 
 4- Files and folders:
 
-	The solver has a folder named code, which includes six python codes: 
+The solver has a folder named code, which includes six python codes: 
 All of the codes are implemented in Python and the main executable code name is main_loop.py. 
 To run the solver, you need to preset the assumptions:
 
