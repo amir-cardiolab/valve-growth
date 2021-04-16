@@ -26,6 +26,8 @@ a.	The solver can be installed simply by cloning the GitHub repository to your o
 	
 	
 b.	You can just download the package from the link below:
+
+
 $ https://github.com/amir-cardiolab/valve-growth.git
 $ unzip code.zip
 $ cd code
