@@ -11,8 +11,7 @@ This code is used in the following publication:
 
 2- FEniCS installation:
 To run the solver, users need to install FEniCS, an open-source finite element software, written in Python: the best reference to install FEniCS is: 
-
-	https://fenicsproject.org/download/
+https://fenicsproject.org/download/
 	
 This solver is compatible with FEniCS 2017, 2018 and 2019. However, it is recommended to install this version of FEniCS. 
 
