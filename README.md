@@ -10,6 +10,7 @@ This code is used in the following publication:
 
 
 2- FEniCS installation:
+
 To run the solver, users need to install FEniCS, an open-source finite element software, written in Python: the best reference to install FEniCS is: 
 https://fenicsproject.org/download/
 	
@@ -19,6 +20,7 @@ $ conda create -n fenicsproject -c conda-forge fenics=2019.2
 $ source activate fenicsproject
 
 3- Nonlinear transient solver installation:
+
 a.	The solver can be installed simply by cloning the GitHub repository to your own computer:
 
 
@@ -34,6 +36,7 @@ b.	You can just download the package from the link below:
 	$ cd code
 
 4- Files and folders:
+
 	The solver has a folder named code, which includes six python codes: 
 All of the codes are implemented in Python and the main executable code name is main_loop.py. 
 To run the solver, you need to preset the assumptions:
