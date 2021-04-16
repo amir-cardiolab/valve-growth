@@ -52,4 +52,23 @@ If you want to run in parallel (recommended), you need to run the code as:
 In the above “n_processors” is the number of processors you want to use in parallel (MPI).
 
 
+5- Post processing: 
+
+You can see the results in the open-source software Paraview. To download the software, you can use the link below: 
+https://www.paraview.org/download/
+	
+To see the displacement and the growth of the aortic valve, you need to use 
+“warp by vector” option in Filters->alphabetical->warp by vector:
+
+![Picture1](https://user-images.githubusercontent.com/61292399/114954222-ea25ab00-9e0e-11eb-941c-eea6ef1bda13.png)
+
+
+
+Figure-2 is an example of the visualization of displacement of the valve which is  the output of the solver:
+
+![image](https://user-images.githubusercontent.com/61292399/114954245-fad62100-9e0e-11eb-8b11-2c7eb6af3375.png)
+
+
+
+
 
