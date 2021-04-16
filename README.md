@@ -16,8 +16,8 @@ https://fenicsproject.org/download/
 	
 This solver is compatible with FEniCS 2017, 2018 and 2019. However, it is recommended to install this version of FEniCS. 
 
-$ conda create -n fenicsproject -c conda-forge fenics=2019.2
-$ source activate fenicsproject
+	$ conda create -n fenicsproject -c conda-forge fenics=2019.2
+	$ source activate fenicsproject
 
 3- Nonlinear transient solver installation:
 
