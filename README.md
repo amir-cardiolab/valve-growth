@@ -60,7 +60,7 @@ https://www.paraview.org/download/
 To see the displacement and the growth of the aortic valve, you need to use 
 “warp by vector” option in Filters->alphabetical->warp by vector:
 
-![Picture1](https://user-images.githubusercontent.com/61292399/114954222-ea25ab00-9e0e-11eb-941c-eea6ef1bda13.png)
+<img width="468" src="https://user-images.githubusercontent.com/61292399/114954222-ea25ab00-9e0e-11eb-941c-eea6ef1bda13.png">
 
 
 
