@@ -66,7 +66,8 @@ To see the displacement and the growth of the aortic valve, you need to use
 
 Figure-2 is an example of the visualization of displacement of the valve which is  the output of the solver:
 
-![image](https://user-images.githubusercontent.com/61292399/114954245-fad62100-9e0e-11eb-8b11-2c7eb6af3375.png)
+<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/61292399/114954318-1e996700-9e0f-11eb-85b4-e18dc97c2d41.png">
+
 
 
 
