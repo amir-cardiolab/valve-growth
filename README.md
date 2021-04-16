@@ -47,6 +47,7 @@ To run the solver you need to run the main_loop.py:
 $ python main_loop.py
 
  To download the geometry  you can use the google drive link: https://drive.google.com/file/d/1QVIGgRxDCMKsZHVPIoSGhBz3DxKBMSlv/view?usp=sharing
+ 
  the geometry should be in the same folder as the codes are.
  
 If you want to run in parallel (recommended), you need to run the code as:
